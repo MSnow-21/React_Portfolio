@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "BitsNBytes",
+        "detail": "Details",
+        "paraone": "Coverts US Dollars to other currencies",
+        "paratwo": "Allows user to pick items from menu",
+        "parathree": "Features a joke API",
+        "href": "https://ambrosiomaxwell.github.io/Project1/"
+    },
+    {
+        "id": 2,
+        "title": "The Weather Dashboard",
+        "detail": "Details",
+        "paraone": "Uses a Weather API",
+        "paratwo": "Javascript and AJAX",
+        "parathree": "Current Day and Five Day Forecast",
+        "href": "https://msnow-21.github.io/Weather_Dashboard/"
+    },
+    {
+        "id": 3,
+        "title": "Work Day Scheduler",
+        "detail": "Details",
+        "paraone": "Plan your day",
+        "paratwo": "Save notes with local storage",
+        "parathree": "Refreshes each day",
+        "href": "https://msnow-21.github.io/Work_Day_Scheduler/"
+    },
+    {
+        "id": 4,
+        "title": "Note Taker",
+        "detail": "Details",
+        "paraone": "Create a Note and a Task",
+        "paratwo": "Stores Notes",
+        "parathree": "Deletes Notes",
+        "href": "https://sleepy-earth-26614.herokuapp.com/"
+    },
+    {
+        "id": 5,
+        "title": "Code Quiz",
+        "detail": "Details",
+        "paraone": "Test your Javascript knowledge",
+        "paratwo": "Use Javascript to create HTML elements",
+        "parathree": "A timed Event",
+        "href": "https://msnow-21.github.io/Code_Quiz/"
+    },
+    {
+        "id": 6,
+        "title": "The Wolf",
+        "detail": "Details",
+        "paraone": "A website about my favorite animal",
+        "paratwo": "Allows the user to learn about wolves",
+        "parathree": "Click to learn more",
+        "href": "https://msnow-21.github.io/Wolf/"
+    }
+]
