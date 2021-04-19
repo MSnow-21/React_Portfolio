@@ -7,13 +7,14 @@ import NoteTaker from "../assets/imgs/notetaker.PNG";
 import CodeQuiz from "../assets/imgs/codequiz.PNG";
 import TheWolf from "../assets/imgs/Wolf.PNG";
 import Projects from "./Projects";
+import "../assets/styles/applications.css";
 
 function Applications() {
     return (
         <div id="applications" className="container container-main">
             <h1 className="applicationhead">My Application Portfolio</h1>
-            <p>Different technologies are use to create functional applications for each user</p>
-            <p>The applications..</p>
+            <p className="paraone">Different technologies are use to create functional applications for each user</p>
+            <p className="paratwo">The applications..</p>
             <div className="row">
                 <Projects
                    title={portfolio[0].title}

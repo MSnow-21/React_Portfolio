@@ -1,0 +1,47 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.applicationhead{
+    padding:10px;
+    text-align: center;
+}
+
+.paraone{
+    font-size: 25px;
+    text-align: center;
+}
+
+.paratwo{
+    font-size: 25px;
+    text-align: center;
+    padding: 30px;
+    font-style: italic;
+}
+
+.projectcontainer{
+    background-color: rgb(92, 145, 243);
+    padding:25px;
+}
+
+.projectcard{
+    background-color: rgba(240, 246, 250, 0.678);
+    box-shadow: 3px 3px;
+}
+.projecttitle{
+    text-align: center;
+    font-size:23px;
+}
+
+.projectimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 3px 3px;
+}
+
+.paraproject{
+    text-align: center;
+    font-size: 20px;
+
+}

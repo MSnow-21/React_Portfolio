@@ -3,8 +3,8 @@
         "id": 1,
         "title": "BitsNBytes",
         "detail": "Details",
-        "paraone": "Coverts US Dollars to other currencies",
-        "paratwo": "Allows user to pick items from menu",
+        "paraone": "US Dollars to other currencies",
+        "paratwo": "Pick items from the menu",
         "parathree": "Features a joke API",
         "href": "https://ambrosiomaxwell.github.io/Project1/"
     },
@@ -39,8 +39,8 @@
         "id": 5,
         "title": "Code Quiz",
         "detail": "Details",
-        "paraone": "Test your Javascript knowledge",
-        "paratwo": "Use Javascript to create HTML elements",
+        "paraone": "Test your knowledge",
+        "paratwo": "Javascript created HTML elements",
         "parathree": "A timed Event",
         "href": "https://msnow-21.github.io/Code_Quiz/"
     },
@@ -48,8 +48,8 @@
         "id": 6,
         "title": "The Wolf",
         "detail": "Details",
-        "paraone": "A website about my favorite animal",
-        "paratwo": "Allows the user to learn about wolves",
+        "paraone": "My favorite animal",
+        "paratwo": "Learn about wolves",
         "parathree": "Click to learn more",
         "href": "https://msnow-21.github.io/Wolf/"
     }

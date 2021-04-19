@@ -1,0 +1,51 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.aboutcontainer{
+    margin:0%;
+    padding: 30px;
+    display: block;
+}
+
+.aboutme{
+    color: rgb(44, 78, 172);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.paraabout{
+    font-size: 20px;
+}
+
+.techcontainer{
+    margin-bottom: 15px;
+}
+
+.skillsandtech{
+    text-align: center;
+    color:rgb(44, 78, 172);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+}
+
+.techused{
+    font-size: 25px;
+}
+
+.contactheading{
+    font-size:25px;
+
+}
+
+.location{
+    font-size:20px;
+}
+
+.contactbuttoncontainer{
+    padding:10px;
+    margin-left:0px;
+}
+
+.contactbutton{
+    width:80px;
+}
