@@ -3,7 +3,8 @@ import React from "react";
 function Footer() {
     return(
         <footer className="footer">
-            <span>Mark Snow Resume</span>
+            <p>Author: Mark Snow<br></br>
+            <a href="msnowcode@gmail.com">msnowcode@gmail.com</a></p>
         </footer>
     )
 }

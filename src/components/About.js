@@ -24,8 +24,25 @@ function About(){
                     </div>
                     
                     <div className="col-md-4">
-                        <ul>
+                        <ul><strong>Languages</strong>
                             <li>Javascript</li>
+                            <li>HTML</li>
+                            <li>CSS</li>
+                            <li>JQuery</li>
+                        </ul>
+                    </div>
+                    <div className="col-md-4">
+                        <ul><strong>Applications</strong>
+                            <li>MySQL</li>
+                            <li>MongoDB</li>
+                        </ul>
+                    </div>
+                    <div className="col-md-4">
+                        <ul><strong>Tools</strong>
+                            <li>Github</li>
+                            <li>Node JS</li>
+                            <li>Express</li>
+                            <li>Heroku</li>
                         </ul>
                     </div>
 
