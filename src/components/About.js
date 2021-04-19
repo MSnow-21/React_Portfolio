@@ -5,9 +5,31 @@ function About(){
     return(
         <div>
             <div className="container">
-                <h1>About Me</h1>
-                <img src={ProfessionalImage} alt="ProfessionalImage"></img>
+                <div className="row">
+                    <div className="col-md-4">
+                        <img src={ProfessionalImage} alt="ProfessionalImage" width="350" height="350"></img>
+                    </div>
+                    <div className="col-md-8">
+                        <h1>About Me</h1>
+                        <p>My name is Mark Snow and I am making a career move into the world of coding. I live in Cleveland, Ohio with my wife and children. My career journey started in Sandusky, OH as a manufacturing engineer for the pulp and paper industry. In that role I learned how to use the latest 3D modeling software to create drawings for the various manufacturing processes. After building my manufacturing knowledge and skills, I made a move up to the Cleveland area where I began managing projects for the tunnel boring industry.</p>
+                        <p>I have since decided to make a move into the world of coding where I can continue to be creative and work with all the amazing technology.</p>
+                    </div>
+                </div>
                 <br></br>
+            </div>
+            <div className="container">
+                <div className="row">
+                    <div className="col-md-12">
+                        <h1>Skills and Technologies Used</h1>
+                    </div>
+                    
+                    <div className="col-md-4">
+                        <ul>
+                            <li>Javascript</li>
+                        </ul>
+                    </div>
+
+                </div>
             </div>
             
             <div className="container" id="contact">

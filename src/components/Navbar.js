@@ -5,7 +5,7 @@ function Navbar() {
     return(
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <Link className="navbar-brand" to="/">
-                Portfolio
+                React_Portfolio
             </Link>
             <div>
                 <ul className="navbar-nav">
