@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../assets/imgs/linkedin.png"
+import Resume from "../assets/imgs/linkedin.png";
 import GithubImage from "../assets/imgs/github.png"
 
 

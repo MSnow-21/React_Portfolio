@@ -1,18 +1,33 @@
-import './App.css';
-import Header from "./components/Header"
-import Footer from "./components/Footer"
-import Applications from "./components/Applications"
-import ProfessionalLinks from "./components/ProfessionalLinks"
+import React from "react";
+import { BrowserRouter as Router, Route, Switch} from "react-router-dom";
+import Footer from "./components/Footer";
+import Applications from "./components/Applications";
+import ProfessionalLinks from "./components/ProfessionalLinks";
+import About from "./components/About";
+import Navbar from "./components/Navbar";
+
 
 
 function App() {
   return (
-    <div>
-    <Header />
-    <Applications />
-    <ProfessionalLinks />
-    <Footer />
-    </div>
+    <Router>
+      <div>
+        <Navbar />
+          <Switch>
+          <Route exact path={["/","/about"]} >
+            <About /> 
+          </Route> 
+          <Route exact path="/professionallinks" >
+            <ProfessionalLinks />
+          </Route>
+          <Route exact path="/applications" >
+           <Applications />
+          </Route>
+          </Switch>
+        <Footer/>
+      </div>
+    </Router>
+ 
   );
 }
 

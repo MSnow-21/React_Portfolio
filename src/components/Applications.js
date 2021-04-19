@@ -10,8 +10,8 @@ import Projects from "./Projects";
 
 function Applications() {
     return (
-        <div id="applications" className="container">
-            <h1>My Application Portfolio</h1>
+        <div id="applications" className="container container-main">
+            <h1 className="applicationhead">My Application Portfolio</h1>
             <p>Different technologies are use to create functional applications for each user</p>
             <p>The applications..</p>
             <div className="row">
@@ -43,6 +43,7 @@ function Applications() {
                    image={WorkDayPlanner}
                 />
             </div>
+            <br></br>
             <div className="row">    
                 <Projects
                    title={portfolio[3].title}
